@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Azure**
 
-- 💬 Ask me about **Python, Java, Machine learning, Deep learning**
+- 💬 Ask me about **Python, SQL, Machine learning or Deep learning concepts**
 
 - 📫 How to reach me **ritvikysv@gmail.com**
-
-- 📄 Know about my experiences [https://ritvikyerneni.hackerresume.io/7b2e48c6-6059-4cc8-bde2-02c893bc9aea](https://ritvikyerneni.hackerresume.io/7b2e48c6-6059-4cc8-bde2-02c893bc9aea)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
